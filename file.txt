@@ -1,2 +1,3 @@
 Hello World!
- commit from master branch
+commit from new branch
+commit from master branch
